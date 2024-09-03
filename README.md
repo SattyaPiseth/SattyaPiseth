@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/piseth-sattya-799ab1219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piseth sattya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piseth-sattya-799ab1219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piseth sattya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/piseth.sattya.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ពិសិដ្ឋ សត្យា" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pisethsattya-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pisethsattya-dev" height="30" width="40" /></a>
 </p>
